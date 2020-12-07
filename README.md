@@ -5,7 +5,7 @@
 
 
 ### About me
-I'm a {backend and, frontend} developer at @itau-unibanco
+I'm a {backend and frontend} developer at @itau-unibanco
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
